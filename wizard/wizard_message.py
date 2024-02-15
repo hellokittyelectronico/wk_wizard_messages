@@ -5,7 +5,7 @@
 # License URL : <https://store.webkul.com/license.html/>
 ##############################################################################
 from odoo import api, fields, models, _
-from odoo.exceptions import ValidationError
+#from odoo.exceptions import ValidationError
 
 
 class WkWizardMessage(models.TransientModel):
