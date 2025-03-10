@@ -12,8 +12,8 @@ class WkWizardMessage(models.TransientModel):
 	_name = "wk.wizard.message"
 	_description = "Message Wizard"
 
-	text = fields.Text(string='Message')
-	text2 = fields.Text(string='Message')
+	text = fields.Text(string='Message 1')
+	text2 = fields.Text(string='Message 2')
 	
 	@api.model
 	def genrated_message(self,message,name='Message/Summary',link='http://navegasoft.com'):
