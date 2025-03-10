@@ -20,7 +20,7 @@
 	"website"      : "https://store.webkul.com/Odoo.html",
 	"license"              :  "Other proprietary",
 	"description"  : """""",
-	"live_test_url": "http://odoodemo.webkul.com/?module=wk_wizard_messages&version=12.0",
+	'license': 'OPL-1',
 	"data"         : [
 		'security/ir.model.access.csv',
 		'wizard/wizard_message.xml'
