@@ -14,7 +14,7 @@
 	"name"         : "Webkul Message Wizard",
 	"summary"      : """To show messages/warnings in Odoo""",
 	"category"     : "Tools",
-	"version"      : "1.0.2",
+	"version"      : "19.0.2",
 	"sequence"     : 1,
 	"author"       : "Webkul Software Pvt. Ltd.",
 	"website"      : "https://store.webkul.com/Odoo.html",
